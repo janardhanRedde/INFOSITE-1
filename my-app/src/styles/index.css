@@ -1,0 +1,13 @@
+body{
+   height: 100vh;
+   font-family: 'Inter-Regular';
+}
+@font-face {
+   font-family:Inter-Regular ;
+   src: url(../Assets/fonts/Inter-Regular.otf);
+}
+
+@font-face {
+   font-family:Inter-ExtraBold ;
+   src: url(../Assets/fonts/Inter-ExtraBold.otf);
+}
